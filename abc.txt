@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-fjweifjwoFKow
-rgearger
-=======
-i am making this project
->>>>>>> ec4766250130f7c517f81e853e0f9917ef849be2
+work added
